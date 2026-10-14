@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_bg">#0F1923</color>
+    <color name="slate_surface">#1A2634</color>
+    <color name="electric_blue">#2979FF</color>
+    <color name="status_recording">#FF1744</color>
+    <color name="status_live">#00E676</color>
+    <color name="status_motion">#FF9100</color>
+    <color name="status_face">#00BCD4</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8899AA</color>
+</resources>

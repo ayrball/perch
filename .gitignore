@@ -1,0 +1,28 @@
+# Android / Gradle
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# IDE
+.idea/
+android/gradle/.idea/
+*.iml
+
+# Web viewer
+web-viewer/node_modules/
+web-viewer/dist/
+web-viewer/*.tsbuildinfo
+
+# Personal device screenshots (a lock-screen capture lives in the project root locally)
+/phone_screen.png
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log

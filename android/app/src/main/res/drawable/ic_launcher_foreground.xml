@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        <!-- Outer Eye / Shield Curve -->
+        <path
+            android:fillColor="#2979FF"
+            android:pathData="M54,20 C32,20 14,35 6,54 C14,73 32,88 54,88 C76,88 94,73 102,54 C94,35 76,20 54,20 Z M54,76 C41.85,76 32,66.15 32,54 C32,41.85 41.85,32 54,32 C66.15,32 76,41.85 76,54 C76,66.15 66.15,76 54,76 Z" />
+        <!-- Inner Lens / Pupil -->
+        <path
+            android:fillColor="#00E676"
+            android:pathData="M54,42 C47.37,42 42,47.37 42,54 C42,60.63 47.37,66 54,66 C60.63,66 66,60.63 66,54 C66,47.37 60.63,42 54,42 Z" />
+    </group>
+</vector>

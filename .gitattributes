@@ -1,0 +1,12 @@
+# Keep line endings consistent between Windows checkouts and the Linux CI runner.
+* text=auto
+
+# Shell scripts must stay LF or they break on Linux/macOS; batch files must stay CRLF.
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Never touch binaries.
+*.png binary
+*.jar binary
+*.webp binary

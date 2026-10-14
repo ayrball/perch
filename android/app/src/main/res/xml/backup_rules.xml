@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings hold the remote-control token and stream credentials: keep them off cloud backups. -->
+<full-backup-content>
+    <exclude domain="sharedpref" path="perch_settings.xml"/>
+    <exclude domain="sharedpref" path="perch_backup_status.xml"/>
+    <exclude domain="database" path="perch_security.db"/>
+</full-backup-content>

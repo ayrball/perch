@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings hold the remote-control token and stream credentials: never copy them off the phone. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="perch_settings.xml"/>
+        <exclude domain="sharedpref" path="perch_backup_status.xml"/>
+        <exclude domain="database" path="perch_security.db"/>
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="perch_settings.xml"/>
+        <exclude domain="sharedpref" path="perch_backup_status.xml"/>
+        <exclude domain="database" path="perch_security.db"/>
+    </device-transfer>
+</data-extraction-rules>

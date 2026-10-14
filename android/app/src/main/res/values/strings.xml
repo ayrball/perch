@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perch</string>
+    <string name="service_notification_title">Perch is Active</string>
+    <string name="service_notification_recording">Recording &amp; Monitoring active</string>
+    <string name="service_notification_streaming">Live streaming to web</string>
+    <string name="channel_recording_name">Camera Service</string>
+    <string name="channel_recording_desc">Ongoing notification while Perch records or streams</string>
+    <string name="channel_alerts_name">Security Alerts</string>
+    <string name="channel_alerts_desc">Motion and facial recognition alerts</string>
+</resources>
