@@ -5,6 +5,7 @@
 **Turn an old Android phone into an always-on security camera.**
 Live view in any browser, on-device face and motion detection, automatic Google Drive backup — no subscription, no Perch cloud.
 
+[![CI](https://github.com/ayrball/perch/actions/workflows/ci.yml/badge.svg)](https://github.com/ayrball/perch/actions/workflows/ci.yml)
 ![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/Web%20viewer-React%2019-61DAFB?logo=react&logoColor=black)
