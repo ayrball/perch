@@ -10,6 +10,7 @@ Live view in any browser, on-device face and motion detection, automatic Google 
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/Web%20viewer-React%2019-61DAFB?logo=react&logoColor=black)
 ![Tests](https://img.shields.io/badge/tests-267%20passing-brightgreen)
+![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
 
 <br>
 
@@ -132,4 +133,6 @@ perch/
 
 ## License
 
-No license has been chosen yet, so by default all rights are reserved. Add a `LICENSE` file (MIT, Apache-2.0, …) to say how others may use the code.
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE). You are free to use, modify and share this for personal, hobby, educational, research and other noncommercial purposes.
+
+**Commercial use** (selling it, building a paid product or service on it, or using it in a business) needs a separate license from the author. Commercial licenses are available: get in touch via [github.com/ayrball](https://github.com/ayrball) to discuss terms.
